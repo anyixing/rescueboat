@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="./css/bootstrap.min.css">
   <link rel="stylesheet" href="./plugins/select2/css/select2.min.css">
   <link rel="stylesheet" href="./css/style.css">
-  <title>GetVAC</title>
+  <title>RescueBoat</title>
   
 </head>
 
